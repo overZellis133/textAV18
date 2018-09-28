@@ -8,6 +8,8 @@ Repo: [https://github.com/edsilv/iiif-video-nav-demo](https://github.com/edsilv/
 Demo: [https://iiif-video-nav-demo.netlify.com/](https://iiif-video-nav-demo.netlify.com/)  
 UV version of demo: [http://universalviewer.io/examples/\#?manifest=https%3A%2F%2Fiiif-video-nav-demo.netlify.com%2Fiiif-manifest.json&c=&m=&s=&cv=](http://universalviewer.io/examples/#?manifest=https%3A%2F%2Fiiif-video-nav-demo.netlify.com%2Fiiif-manifest.json&c=&m=&s=&cv=)
 
+Slides: https://docs.google.com/presentation/d/1dO6iP1GkwtDKV7jghIeB-yy791HL2Q9kLs9sC5ayAgg/edit?usp=sharing
+
 ## **Team**
 
 * Philo van Kemenade
